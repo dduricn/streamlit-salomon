@@ -15,7 +15,7 @@ from sentence_transformers import SentenceTransformer
 
 #configuaration generale 
 
-DATA_PATH = "df_chanel_embeddings.pkl"     # Fichier Pickle généré par ton .py
+DATA_PATH = "df_chanel_embeddings.pkl"     # Fichier Pickle généré par ton fichier.py
 IMAGE_FOLDER = "processed_img"             # Dossier d'images prétraitées (product_code.jpg)
 
 # caché 
